@@ -1,0 +1,30 @@
+FreelanceLink: The Ultimate Freelancing Marketplace for Admins, Freelancers, and Recruiters.
+
+FreelanceLink is a cutting-edge freelancing marketplace that brings together a unique ecosystem of users comprising
+admins, freelancers, and recruiters. Designed to streamline the hiring process, empower freelancers, and simplify 
+project management,FreelanceLink offers a comprehensive platform for efficient collaboration and successful project
+completion.
+
+Admins:
+As an admin on FreelanceLink, you have the ability to create,update and manage users,see updated information of jobs,
+ensuring smooth workflows and effective communication.  
+
+Freelancers:
+FreelanceLink empowers freelancers by providing a diverse range of projects from a multitude of industries. As a 
+freelancer, You can bid on jobs. FreelanceLink offers a secure and transparent payment system, ensuring timely and
+fair compensation for your hard work.
+
+Recruiters:
+Recruiters on FreelanceLink can tap into a vast pool of talented freelancers to find the perfect fit for their jobs.
+Whether you represent a company or work independently, you can create job postings, specify job requirements, and 
+outline the scope of work.With integrated tools, you can review their proposals,and make informed decisions & can
+provide feedback and ratings based on your experience, establishing a trusted network of freelancers and recruiters.
+By leveraging the platform's features, recruiters can access a global talent pool and streamline their hiring process.
+
+ Features of FreelanceLink:
+
+   1. Smooth Login
+   2. Change Password
+   3. Get Notification
+   4. Give Rating
+   5. See History

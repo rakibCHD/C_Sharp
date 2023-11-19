@@ -1,0 +1,107 @@
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Recruiter.resources
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Freelancer.resources
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUpForm.resources
+E:\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminform.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminform.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Recruiter.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Freelancer.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUpForm.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminform.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Recruiter.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Freelancer.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUpForm.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewJobs.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminform.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Recruiter.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Freelancer.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUpForm.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewJobs.resources
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+J:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangedPasswordForm.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rating.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Financials.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllNotification.resources
+C:\Users\rakib\OneDrive\Documents\c#\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.About.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.About.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminform.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllNotification.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangedPasswordForm.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Financials.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rating.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Recruiter.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Freelancer.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUpForm.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewJobs.resources
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\c#-projects\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.About.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminform.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllNotification.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChangedPasswordForm.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Financials.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rating.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Recruiter.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Freelancer.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUpForm.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewJobs.resources
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\My PC\Documents\Freelancing_Marketplace\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

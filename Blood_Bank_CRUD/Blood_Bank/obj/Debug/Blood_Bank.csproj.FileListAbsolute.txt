@@ -1,0 +1,41 @@
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\bin\Debug\Blood_Bank.exe.config
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\bin\Debug\Blood_Bank.exe
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\bin\Debug\Blood_Bank.pdb
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\obj\Debug\Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\obj\Debug\Blood_Bank.Blood_Bank_Register.resources
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\obj\Debug\Blood_Bank.csproj.GenerateResource.cache
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\obj\Debug\Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\obj\Debug\Blood_Bank.exe
+C:\Users\rakib\OneDrive\Documents\Blood_Bank\obj\Debug\Blood_Bank.pdb
+D:\New folder\Blood_Bank\bin\Debug\Blood_Bank.exe.config
+D:\New folder\Blood_Bank\bin\Debug\Blood_Bank.exe
+D:\New folder\Blood_Bank\bin\Debug\Blood_Bank.pdb
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.csproj.AssemblyReference.cache
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.Blood_Bank_Register.resources
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.csproj.GenerateResource.cache
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.csproj.CoreCompileInputs.cache
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.exe
+D:\New folder\Blood_Bank\obj\Debug\Blood_Bank.pdb
+J:\New folder\Blood_Bank\bin\Debug\Blood_Bank.exe.config
+J:\New folder\Blood_Bank\bin\Debug\Blood_Bank.exe
+J:\New folder\Blood_Bank\bin\Debug\Blood_Bank.pdb
+J:\New folder\Blood_Bank\obj\Debug\Blood_Bank.csproj.AssemblyReference.cache
+J:\New folder\Blood_Bank\obj\Debug\Blood_Bank.Blood_Bank_Register.resources
+J:\New folder\Blood_Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+J:\New folder\Blood_Bank\obj\Debug\Blood_Bank.csproj.GenerateResource.cache
+J:\New folder\Blood_Bank\obj\Debug\Blood_Bank.csproj.CoreCompileInputs.cache
+J:\New folder\Blood_Bank\obj\Debug\Blood_Bank.exe
+J:\New folder\Blood_Bank\obj\Debug\Blood_Bank.pdb
+J:\Blood_Bank_CRUD\Blood_Bank\bin\Debug\Blood_Bank.exe.config
+J:\Blood_Bank_CRUD\Blood_Bank\bin\Debug\Blood_Bank.exe
+J:\Blood_Bank_CRUD\Blood_Bank\bin\Debug\Blood_Bank.pdb
+J:\Blood_Bank_CRUD\Blood_Bank\obj\Debug\Blood_Bank.csproj.AssemblyReference.cache
+J:\Blood_Bank_CRUD\Blood_Bank\obj\Debug\Blood_Bank.Blood_Bank_Register.resources
+J:\Blood_Bank_CRUD\Blood_Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+J:\Blood_Bank_CRUD\Blood_Bank\obj\Debug\Blood_Bank.csproj.GenerateResource.cache
+J:\Blood_Bank_CRUD\Blood_Bank\obj\Debug\Blood_Bank.csproj.CoreCompileInputs.cache
+J:\Blood_Bank_CRUD\Blood_Bank\obj\Debug\Blood_Bank.exe
+J:\Blood_Bank_CRUD\Blood_Bank\obj\Debug\Blood_Bank.pdb

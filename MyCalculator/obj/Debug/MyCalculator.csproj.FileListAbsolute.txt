@@ -1,0 +1,45 @@
+C:\Users\rakib\Downloads\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\rakib\Downloads\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\rakib\Downloads\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.Calculator.resources
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\rakib\Downloads\MyCalculator\bin\Debug\MyCalculator.exe.manifest
+C:\Users\rakib\Downloads\MyCalculator\bin\Debug\MyCalculator.application
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.exe.manifest
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.application
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\rakib\Downloads\MyCalculator\obj\Debug\MyCalculator.Form2.resources
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\bin\Debug\MyCalculator.exe.manifest
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\bin\Debug\MyCalculator.application
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.Calculator.resources
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.Form2.resources
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.exe.manifest
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.application
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\rakib\OneDrive\Documents\c#\MyCalculator\obj\Debug\MyCalculator.pdb
+E:\AIUB\4th semester\C#\MyCalculator\bin\Debug\MyCalculator.exe.config
+E:\AIUB\4th semester\C#\MyCalculator\bin\Debug\MyCalculator.exe.manifest
+E:\AIUB\4th semester\C#\MyCalculator\bin\Debug\MyCalculator.application
+E:\AIUB\4th semester\C#\MyCalculator\bin\Debug\MyCalculator.exe
+E:\AIUB\4th semester\C#\MyCalculator\bin\Debug\MyCalculator.pdb
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.Calculator.resources
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.Form2.resources
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.exe.manifest
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.application
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.exe
+E:\AIUB\4th semester\C#\MyCalculator\obj\Debug\MyCalculator.pdb
