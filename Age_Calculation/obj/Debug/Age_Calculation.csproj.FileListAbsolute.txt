@@ -1,0 +1,10 @@
+C:\Users\My PC\Documents\C#\Age_Calculation\bin\Debug\Age_Calculation.exe.config
+C:\Users\My PC\Documents\C#\Age_Calculation\bin\Debug\Age_Calculation.exe
+C:\Users\My PC\Documents\C#\Age_Calculation\bin\Debug\Age_Calculation.pdb
+C:\Users\My PC\Documents\C#\Age_Calculation\obj\Debug\Age_Calculation.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\C#\Age_Calculation\obj\Debug\Age_Calculation.Form1.resources
+C:\Users\My PC\Documents\C#\Age_Calculation\obj\Debug\Age_Calculation.Properties.Resources.resources
+C:\Users\My PC\Documents\C#\Age_Calculation\obj\Debug\Age_Calculation.csproj.GenerateResource.cache
+C:\Users\My PC\Documents\C#\Age_Calculation\obj\Debug\Age_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\C#\Age_Calculation\obj\Debug\Age_Calculation.exe
+C:\Users\My PC\Documents\C#\Age_Calculation\obj\Debug\Age_Calculation.pdb
