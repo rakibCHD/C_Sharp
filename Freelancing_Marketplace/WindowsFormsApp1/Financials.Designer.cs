@@ -1,6 +1,6 @@
 ﻿
 namespace WindowsFormsApp1
-{
+{ 
     partial class Financials
     {
         /// <summary>
