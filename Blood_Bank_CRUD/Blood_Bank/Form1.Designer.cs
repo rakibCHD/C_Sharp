@@ -3,7 +3,7 @@ namespace Blood_Bank
 {
     partial class Blood_Bank_Register
     {
-        /// <summary>
+        /// <summary> 
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
