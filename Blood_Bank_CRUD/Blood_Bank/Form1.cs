@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-
+ 
 namespace Blood_Bank
 {
     public partial class Blood_Bank_Register : Form
