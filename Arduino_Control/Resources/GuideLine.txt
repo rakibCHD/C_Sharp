@@ -1,0 +1,22 @@
+Firstly, you have to upload a dedicated HEX file to communicate with your Arduino Board using this application.
+
+Click the "Upload (.hex)" button.
+
+If your Arduino Board is already Connected, you will be asked to disconnect.
+
+If your Arduino Board is already Disconnected, stay disconnected.
+
+Browse the necessary files (Avrdude.exe, Avrdude.conf, Arduino_With_C_Sharp.ino.standard.hex) properly.
+
+Then click the "Find Port" button. A message will appear and ask you to connect your Arduino Board within 20 seconds.
+If you don't connect within the time limit, it will ask you to connect again.
+
+After connecting properly, you will see the connected port. Click the "Flash" button.
+It will flash the dedicated HEX file to your Arduino Board.
+
+You must select the output pin from the pin list.
+
+Now you can operate the functions (On, Off).
+
+You can also upload any HEX file for Arduino, but remember that whenever you try to control the functions (On, Off),
+you must upload the dedicated (Arduino_With_C_Sharp.ino.standard.hex) file first.
