@@ -1,0 +1,34 @@
+This is a Ardunio Uno(Atmega328p-Microcontroller) based "Digital Weather Station" Project.
+                      
+----------------------------MICROPROCESSOR AND EMBEDDED SYSTEMS--------------------------
+
+
+Sensors/Equipments:
+
+       BMP280 sensor for measuring accurate (Temperature, Air-Pressure and Altitude).
+       DHT11 sensor for Humidity measurement.
+       LDR sensor for Light persentage measurement.
+       20X4 LCD Display with I2c Module for showing data.
+       Arduino Uno Board.
+       Breadboard and connecting wires.
+       
+
+Functionality:
+
+      Temperature measured in (Celcious, Farenheight and Kelvin) scale.
+      Air Pressure measured in (Pascal, KiloPascal and bar) scale.
+      Altitude measurement from sea level.
+      Humidity measurement.
+      Light persentage measurement.
+      Weather Prediction (Sunny, Cloudy and Rainy).
+
+User Guide:
+
+      1. Firstly, click "Upload(.Hex)" button.
+      2. Make sure to disconnect Arduino for a few moment.
+      3. Browse the necessary files(Programmer.exe, ChipConfig.conf and Weather_Station_G-5.ino.standard.hex).
+      4. Then click "Find Port" button to detect Communication Port With Arduino Board.
+      5. Reconnect the Arduino within 30 seconds after clicking "Ok" Pop-Up button.
+      6. Then simply Click "Flash" button to upload the Code in Arduino.
+      7. Once flashed, the Arduino will run and display the data accurately.
+       
