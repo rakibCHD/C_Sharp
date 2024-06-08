@@ -45,11 +45,12 @@ namespace Weather_Station
 
             if (newPort == null)
             {
-                DialogResult result = MessageBox.Show("No new port detected within 30 Second. Do you want to reconnect?", "Timeout", MessageBoxButtons.YesNo);
-                if (result == DialogResult.Yes)
-                    FindPort();
-                else
-                    MessageBox.Show("Operation canceled.");
+                 DialogResult result = MessageBox.Show("No new port detected within 30 Second!", "Timeout", MessageBoxButtons.OK);
+                        if (result == DialogResult.OK)
+                        {
+                            MessageBox.Show("Operation canceled.");
+                            this.Hide();
+                        }
             }
             else
             {
