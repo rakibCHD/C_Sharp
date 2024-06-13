@@ -1,0 +1,24 @@
+Firstly, you must have to upload a dedicated Bin file(ESP_With_C_Sharp.ino.nodemcu.bin) to communicate with your
+ESP Board using this application.
+
+Click the "Upload (.bin)" button.
+
+If your ESP Board is already Connected, you will be asked to disconnect.
+
+If your ESP Board is already Disconnected, stay disconnected.
+
+Browse the necessary files (Programmer.exe, ESP_With_C_Sharp.ino.nodemcu.bin) properly.
+
+Then click the "Find Port" button. A message will appear and ask you to connect your ESP Board within 30 seconds.
+
+If you don't connect within the time limit, it will ask you to connect again.
+
+After connecting properly, you will see the connected port. Click the "Flash" button.
+
+It will flash the dedicated Bin file to your ESP Board.
+
+You must select the output pin from the pin list.
+
+Now you can operate the functions (On, Off, Blink).
+
+You can also upload any Bin file for ESP.
