@@ -1,0 +1,29 @@
+ATmega microcontrollers are a family of 8-bit microcontrollers developed by Atmel(now part of Microchip Technology). 
+These microcontrollers are based on the AVR architecture, which is designed for high performance and low power 
+consumption. They are widely used in embedded systems due to their versatility, ease of use, and robust feature set.
+Using this Programming Software, you can Program (ATmega328 and ATmega8) microcontroller.
+
+Memory:                                                                                                    Clock Speed:                                     Analog Inputs:
+   ATmega328: 32KB Flash, 2KB SRAM, 1KB EEPROM              ATmega328: Up to 20 MHz           ATmega328: 8 channels
+        ATmega8: 8KB Flash, 1KB SRAM, 512 bytes EEPROM          ATmega8: Up to 16 MHz               ATmega8: 6 channels
+
+                                                                              PWM Outputs:            Operating Voltage:
+                                                                                  ATmega328: 6              ATmega328: 1.8V to 5.5V
+                                                                                       ATmega8: 3                  ATmega8: 2.7V to 5.5V
+
+Architecture: Both microcontrollers use the 8-bit AVR architecture, which is designed for embedded systems.
+
+Digital I/O Pins: Both have 23 digital I/O pins that can be configured as input or output.
+
+Communication Interfaces: Both microcontrollers have USART, SPI, and I2C communication interfaces.
+
+Timers/Counters: Each has 2x 8-bit timers/counters and 1x 16-bit timer/counter.
+
+Power-Saving Modes: Both support multiple power-saving modes including Idle, ADC Noise Reduction, Power-save, Power-down,
+  Standby, and Extended Standby.
+
+Watchdog Timer: Both include a Watchdog Timer with a separate on-chip oscillator.
+
+Programming: Both support In-System Programming (ISP) and high-voltage programming.
+
+Brown-out Detection and Internal Oscillator: Both microcontrollers have brown-out detection and an internal 8 MHz calibrated oscillator.

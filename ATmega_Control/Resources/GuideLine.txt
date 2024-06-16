@@ -1,0 +1,25 @@
+Firstly, you must have to upload a dedicated HEX file to communicate with your ATmega board using this application.
+
+Click the "Upload (.hex)" button.
+
+If your ATmega Board is already Connected, you will be asked to disconnect.
+
+If your ATmega Board is already Disconnected, stay disconnected.
+
+Select your Microcontroller Chip.
+
+Browse the necessary files properly.
+
+Then click the "Find Port" button. A message will appear and ask you to connect your ATmega Board within 30 seconds.
+
+After connecting properly, you will see the connected port. 
+
+Click the "Flash" button.
+
+It will flash the dedicated HEX file to your ATmega Board.
+
+You must select the output pin from the pin list.
+
+Now you can operate the functions (On, Off, Blink).
+
+You can also upload any HEX file for ATmega Board.
